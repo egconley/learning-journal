@@ -6,7 +6,7 @@ Notes from Code 102
 - learn the things
 - publish to the web
 
-### Lab 1
+### Lab 1: Learning Markdown
 Hello!  My name is Ellen.  I'm so excited to be taking this plunge into software development with Code Fellows.  Check out the link to my GitHub portfolio page [here](https://egconley.github.io/learning-journal/).
 
 #### Growth Mindset
