@@ -19,6 +19,6 @@ Hello!  My name is Ellen.  I'm so excited to be taking this plunge into software
 - _~~Ignore~~_ Learn from criticism.
 - Look to the success of others as a _~~threat~~_ source of inspiration.
 
-![practice image](https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F10%2F09%2F00%2F55%2Flotus-978659__340.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fflowers%2F&docid=6QnaOLvEQovLfM&tbnid=Ny0bzPEXzvYSAM%3A&vet=10ahUKEwi25eKBldbkAhXuFjQIHVJ0B8wQMwh7KAAwAA..i&w=510&h=340&safe=strict&bih=630&biw=1134&q=flower&ved=0ahUKEwi25eKBldbkAhXuFjQIHVJ0B8wQMwh7KAAwAA&iact=mrc&uact=8)
+![practice image](https://cdn.theatlantic.com/assets/media/img/mt/2017/10/Pict1_Ursinia_calendulifolia/lead_720_405.jpg?mod=1533691909)
 
 
