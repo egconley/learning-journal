@@ -36,3 +36,16 @@
 ### Text Editors vs. Integrated Development Environments (IDE's)
 > An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
 
+## Notes from [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php), [Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php), and [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+### Command Cheatsheet
+- **pwd** *print working directory*
+- **cd** *change directory*
+  * . (current wd)
+  * ../ (up a level)
+  * ../.. (up 2 levels)
+- **touch** *create new file*
+- **ls** *list contents of director*
+- **mkdir** *creates directory*
+- **mv** *move*
+- **cp** *copy*
