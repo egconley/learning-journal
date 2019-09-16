@@ -9,10 +9,10 @@ Notes from Code 102
 ### Lab 1
 Hello!  My name is Ellen.  I'm so excited to be taking this plunge into software development with Code Fellows.  Check out the link to my GitHub portfolio page [here](https://egconley.github.io/learning-journal/).
 
-## Growth Mindset
+#### Growth Mindset
 **Growth mindset** is about *trusting your ability to learn new things*.  People with a growth mindset ***embrace challenge*** and **_expect failure_ as a _productive part_ of the learning process**.  
 
-# Self-Reminders to Maintain a Growth Mindset
+#### Self-Reminders to Maintain a Growth Mindset
 - _~~Avoid~~_ Embrace challenge!
 - _~~Loose focus~~_ Persist in the face of obstacles!
 - Put in effort, *no pain, no gain*.
