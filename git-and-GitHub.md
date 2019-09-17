@@ -31,9 +31,9 @@ Tracked files: "can be modified, unmodified, or staged; they were part of the mo
 Untracked files: "were not in the last snapshot and do not currently reside in the staging area."
 
 ## Notes from class:
-1. Create new repo in GitHub
+1. *in GitHub* Create new repo in GitHub
 2. Clone to your local machine
-  - *from terminal* `git clone <repo url>`
+  - *from terminal* `git clone <repo url from GitHub>`
 3. Add stuff 
   a. *from terminal* `code .`
   b. make changes in VS code
