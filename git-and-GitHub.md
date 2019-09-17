@@ -39,13 +39,13 @@ Untracked files: "were not in the last snapshot and do not currently reside in t
   b. make changes in VS code
   c. save the changes in VS code
 4. ACP (status)
-A: add `git add <filename>`
-C: commit
-P: push
-  a. *from the terminal* `git status`
-  b. *from the terminal* `git add <filename>`
-  c. *from the terminal* `git status`
-  d. *from the terminal* `git commit -m "comment"
-  e. *from the terminal* `git status`
-  f. *from the terminal* `git push origin master`
-  d. *from the terminal* `git status`
+> A: add `git add <filename>`
+> C: commit
+> P: push
+    - *from the terminal* `git status`
+    - *from the terminal* `git add <filename>`
+    - *from the terminal* `git status`
+    - *from the terminal* `git commit -m "comment"
+    - *from the terminal* `git status`
+    - *from the terminal* `git push origin master`
+    - *from the terminal* `git status`
