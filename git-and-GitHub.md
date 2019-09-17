@@ -42,7 +42,7 @@ Untracked files: "were not in the last snapshot and do not currently reside in t
   - *from the terminal* `git status`
   - *from the terminal* `git add <filename>`
   - *from the terminal* `git status`
-  - *from the terminal* `git commit -m "comment"
+  - *from the terminal* `git commit -m "comment"`
   - *from the terminal* `git status`
   - *from the terminal* `git push origin master`
   - *from the terminal* `git status`
