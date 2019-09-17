@@ -35,9 +35,9 @@ Untracked files: "were not in the last snapshot and do not currently reside in t
 2. Clone to your local machine
   - *from terminal* `git clone <repo url from GitHub>`
 3. Add stuff 
-  a. *from terminal* `code .`
-  b. make changes in VS code
-  c. save the changes in VS code
+  - *from terminal* `code .`
+  - make changes in VS code
+  - save the changes in VS code
 4. ACP (status)
   - *from the terminal* 
     - `git status`
