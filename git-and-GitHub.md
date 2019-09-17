@@ -30,3 +30,22 @@ The local Git repository has three components:
 Tracked files: "can be modified, unmodified, or staged; they were part of the most recent file snapshot"
 Untracked files: "were not in the last snapshot and do not currently reside in the staging area."
 
+## Notes from class:
+1. Create new repo in GitHub
+2. Clone to your local machine
+  - *from terminal* `git clone <repo url>`
+3. Add stuff 
+  a. *from terminal* `code .`
+  b. make changes in VS code
+  c. save the changes in VS code
+4. ACP (status)
+A: add `git add <filename>`
+C: commit
+P: push
+  a. *from the terminal* `git status`
+  b. *from the terminal* `git add <filename>`
+  c. *from the terminal* `git status`
+  d. *from the terminal* `git commit -m "comment"
+  e. *from the terminal* `git status`
+  f. *from the terminal* `git push origin master`
+  d. *from the terminal* `git status`
