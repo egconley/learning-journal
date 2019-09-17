@@ -40,10 +40,10 @@ Untracked files: "were not in the last snapshot and do not currently reside in t
   c. save the changes in VS code
 4. ACP (status)
   - *from the terminal* 
-     `git status`
-     `git add <filename>`
-     `git status`
-     `git commit -m "comment"`
-     `git status`
-     `git push origin master`
-     `git status`
+    - `git status`
+    - `git add <filename>`
+    - `git status`
+    - `git commit -m "comment"`
+    - `git status`
+    - `git push origin master`
+    - `git status`
