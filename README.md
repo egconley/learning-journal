@@ -10,6 +10,7 @@ Hello!  My name is Ellen.  I'm so excited to be taking this plunge into software
 - [text editor notes](https://egconley.github.io/learning-journal/markdown.html)
 - [git and GitHub notes](https://egconley.github.io/learning-journal/git-and-GitHub.html)
 - [html notes](https://egconley.github.io/learning-journal/webpage-struct-html.html)
+- [css notes](https://egconley.github.io/learning-journal/css.html)
 
 
 link: https://egconley.github.io/learning-journal/
