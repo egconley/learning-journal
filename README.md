@@ -6,6 +6,9 @@ Notes from Code 102
 Hello!  My name is Ellen.  I'm so excited to be taking this plunge into software development with Code Fellows.  Check out the link to my GitHub portfolio page [here](https://egconley.github.io/learning-journal/).
 
 ## Table of Contents
-
+[growth mindset notes]()
+[text editor notes]()
+[git and GitHub notes]()
+[html notes]()
 
 
