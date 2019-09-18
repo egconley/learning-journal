@@ -1,3 +1,5 @@
+[home](https://egconley.github.io/learning-journal/)
+
 # Read 03: Revisions and the Cloud - Git and GitHub
 Notes from [udemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
