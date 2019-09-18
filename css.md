@@ -11,8 +11,8 @@
 ### CSS Syntax
 
 `p {
-font-family: Arial;}' 
-*where p is called a "selector", everything in the curly backets in called a "declaration", and font-family: Arial; is a property: value pair*`
+font-family: Arial;}` 
+*where p is called a "selector", everything in the curly backets in called a "declaration", and font-family: Arial; is a property: value pair*
 
 ## Duckett: HTML & CSS.  Chapter 11: Color
 
