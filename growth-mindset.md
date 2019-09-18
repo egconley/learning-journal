@@ -1,3 +1,5 @@
+[home](https://egconley.github.io/learning-journal/)
+
 #### Growth Mindset
 **Growth mindset** is about *trusting your ability to learn new things*.  People with a growth mindset ***embrace challenge*** and **_expect failure_ as a _productive part_ of the learning process**.  
 
