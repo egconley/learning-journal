@@ -6,11 +6,11 @@ Notes from Code 102
 Hello!  My name is Ellen.  I'm so excited to be taking this plunge into software development with Code Fellows.  Check out the link to my GitHub portfolio page [here](https://egconley.github.io/learning-journal/).
 
 ## Table of Contents
-- [growth mindset notes](https://egconley.github.io/learning-journal/growth-mindset.html)
-- [text editor notes](https://egconley.github.io/learning-journal/markdown.html)
-- [git and GitHub notes](https://egconley.github.io/learning-journal/git-and-GitHub.html)
-- [html notes](https://egconley.github.io/learning-journal/webpage-struct-html.html)
-- [css notes](https://egconley.github.io/learning-journal/css.html)
+- [growth mindset notes](growth-mindset.md)
+- [text editor notes](markdown.md)
+- [git and GitHub notes](git-and-GitHub.md)
+- [html notes](webpage-struct-html.md)
+- [css notes](css.md)
 
 
 link: https://egconley.github.io/learning-journal/
