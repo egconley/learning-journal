@@ -1,3 +1,5 @@
+[home](https://egconley.github.io/learning-journal/)
+
 # Read 02: The Coder's Computer
 
 ## Take-Aways from [Choosing A Text Editor](https://web.archive.org/web/20190113051315/https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636?source=topic_page---------5------------------1) article
