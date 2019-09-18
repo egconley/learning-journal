@@ -22,6 +22,31 @@
      
 ## Duckett: HTML & CSS, Chapter 1: Structure
 
+<"opening tag" "attribute">Text</"closing tag"> *the whole thing is an **element***
+
 ## Duckett: HTML & CSS, Chapter 17 - HTML5 Layout
 
+HTML5 discards <div> notation and uses descriptive notation to differentiate different types of elements.
+
+> examples: <header> <section> <footer>
 ## Duckett: HTML & CSS, Chapter 8 - Extra Markup
+
+To make a comment in HTML: `<!-- commented out text -->`
+
+You can label elements by giving them an *id attribute* in the opening tag.  This becomes useful with a linked CSS file because can use that label to style that element differently than the rest of the page.
+
+> example: `<p id="blah">Text, text, text</p>`
+
+You can label several elements as a group with a *class attribute*
+
+> example: `<p class="important">Text...</p>`
+
+*block elements* appear to start on a new line in the brower window.
+
+> examples: `<h1>`, `<p>`, `<ul>`, `<li>`
+
+*inline elements* appear to continue on the same line.
+
+> examples: `<a>`, `<b>`, `<em>`, `<img>`
+
+Other fun elements: `<div`, `<span>`, `<iframe>`, `<meta>`
