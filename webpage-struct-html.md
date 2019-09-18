@@ -1,3 +1,5 @@
+[home](https://egconley.github.io/learning-journal/)
+
 # Read 04: Structure web pages with HTML
 ## Duckett: HTML & CSS, Chapter 18 - Process & Design
 - Understand your **target audience**
