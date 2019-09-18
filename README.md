@@ -12,3 +12,4 @@ Hello!  My name is Ellen.  I'm so excited to be taking this plunge into software
 - [html notes](https://egconley.github.io/learning-journal/webpage-struct-html.html)
 
 
+link: https://egconley.github.io/learning-journal/
