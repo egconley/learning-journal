@@ -1,4 +1,4 @@
-# Read 05: Design web pates with CSS
+# Read 05: Design web pages with CSS
 
 ## Duckett: HTML & CSS.  Chapter 10: Introducing CSS
 
