@@ -1,4 +1,4 @@
-## Notes from [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+## Read 08: Notes from [How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
 ### What makes a computer a computer?** *Computers...*
 1. Take input
