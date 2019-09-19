@@ -6,7 +6,7 @@
 2. Modify content
     - add elements, attributes, and text to the page, or remove them
 3. Program rules
-    - specify a set of stpes for teh browser to follow, which allows it to access or change the content of a page
+    - specify a set of steps for the browser to follow, which allows it to access or change the content of a page
 4. React to events
     - specify that a script should run when a specific event has occured
   
