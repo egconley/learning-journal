@@ -12,7 +12,7 @@
   
 ### Scripts
 
-**scriptt** - *a series of instructions that a computer can follow to achieve a goal.*
+**script** - *a series of instructions that a computer can follow to achieve a goal.*
     - *to write a script: first state your goal and then list the task that need to be completed in order to achieve it.*
         1. Define the goal.
         2. Design the script.
