@@ -38,9 +38,9 @@
   - increment ++ ex. i = 10; i++; *returns 11*
   - decrement -- ex. i = 10; i--; *returns 9*
   - modulus % *returns the remainder of two values*
-- **string operators** combine two strings
+- **String operators** combine two strings
 - **Comparison operators** compare two values and return *true* or *false*
-- **logical operators** combine expressions and return *true* or *false*
+- **Logical operators** combine expressions and return *true* or *false*
 
 #### Functions
 
