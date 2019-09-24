@@ -11,3 +11,6 @@ Hello!  My name is Ellen.  I'm so excited to be taking this plunge into software
 - [git and GitHub notes](git-and-GitHub.md)
 - [html notes](webpage-struct-html.md)
 - [css notes](css.md)
+- [How Computers Work notes](how-computers-work.md)
+- [JavaScript notes](javascript.md)
+- [more JavaScripts notes](js-functions-etc.md)
